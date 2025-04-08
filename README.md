@@ -17,4 +17,4 @@ Welcome to the official GitHub repository of [Epilation World (https://www.epila
 - Transparent methodology  
 - Rich in experience, free from hype  
 
-📎 **Visit us here:** [https://www.epilationworld.com](https://www.epilationworld.com)
+📎 **Visit us here:** [https://www.epilationworld.com](https://www.epilationworld.com/)
