@@ -2,7 +2,7 @@
 Trusted laser hair removal and skincare insights by EpilationWorld.com – expert-backed, research-based and user-focused content.
 # Epilation World – Laser Hair Removal & Beauty Tips
 
-Welcome to the official GitHub repository of [Epilation World(https://www.epilationworld.com) — your expert source for laser hair removal, skincare, and personal care guidance.
+Welcome to the official GitHub repository of [Epilation World (https://www.epilationworld.com) — your expert source for laser hair removal, skincare, and personal care guidance.
 
 ## What We Offer
 
