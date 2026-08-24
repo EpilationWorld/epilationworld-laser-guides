@@ -1,19 +1,8 @@
-# epilationworld-laser-guides
-Trusted laser hair removal and skincare insights by EpilationWorld.com – expert-backed, research-based and user-focused content.
-# Epilation World – Laser Hair Removal & Beauty Tips
+import { registerRootComponent } from 'expo';
 
-Welcome to the official GitHub repository of [Epilation World (https://www.epilationworld.com/) — your expert source for laser hair removal, skincare, and personal care guidance.
+import App from './App';
 
-## What We Offer
-
-- 💡 Certified laser hair removal professionals  
-- 🧬 Evidence-based, practical skincare guidance  
-- ✍️ 100% original content crafted by experienced beauty writers  
-- 🌍 Global perspective, tailored advice
-
-## Why Google Trusts EpilationWorld.com
-
-- Expert-led content  
-- Transparent methodology  
-- Rich in experience, free from hype  
-
+// registerRootComponent calls AppRegistry.registerComponent('main', () => App);
+// It also ensures that whether you load the app in Expo Go or in a native build,
+// the environment is set up appropriately
+registerRootComponent(App);
